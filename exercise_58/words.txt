@@ -1,0 +1,6 @@
+python
+academia
+inteligencia
+artificial
+carro
+casa
